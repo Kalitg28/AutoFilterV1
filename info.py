@@ -85,7 +85,7 @@ DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 
 #url links
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tnshort.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', '45fb23b5fa8e4da1fac3c9cc6bed6a8a3689f187')
+SHORTLINK_API = environ.get('SHORTLINK_API', '1e7d4e20e77655f3d0de914127b5310cc4f093ca')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 
 #Auto approve 
